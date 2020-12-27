@@ -1,0 +1,22 @@
+{
+  "name": "testing-uwu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "moment": "^2.29.1",
+    "passport": "^0.4.1",
+    "passport-discord": "^0.1.4",
+    "pug": "^3.0.0",
+    "quick.db": "git+https://github.com/lorencerri/quick.db.git"
+  }
+}
